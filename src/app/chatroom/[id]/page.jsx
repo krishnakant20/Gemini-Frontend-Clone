@@ -9,22 +9,6 @@ import Sidebar from '@/components/Sidebar';
 import { ImageUp } from 'lucide-react';
 
 const MESSAGES_PER_PAGE = 20;
-export async function generateStaticParams() {
-  // Return static list of params
-  return [
-    { id: '1' },
-    { id: '2' },
-    { id: '3' },
-    { id: '4' },
-    { id: '5' },
-    { id: '6' },
-    { id: '7' },
-    { id: '8' },
-    { id: '9' },
-    { id: '10' },
-    // Add more or generate dynamically from dummy data
-  ]
-}
 
 export default function ChatroomPage() {
   const { id } = useParams();
