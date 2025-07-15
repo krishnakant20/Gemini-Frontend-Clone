@@ -1,13 +1,11 @@
-# Gemini Frontend Clone – Kuvaka Tech Assignment
+# Gemini Frontend Clone
 
 **🔗 Live Demo**: [https://your-deployed-url.vercel.app](https://your-deployed-url.vercel.app)  
-**📁 GitHub Repo**: [https://github.com/your-username/gemini-frontend-clone](https://github.com/your-username/gemini-frontend-clone)
+**📁 GitHub Repo**: [https://github.com/krishnakant20/Gemini-Frontend-Clone.git]
 
 ---
 
 ## 📌 Overview
-
-This is a **Gemini-style AI chat frontend** built as part of the **Frontend Developer Assignment at Kuvaka Tech**.  
 It includes:
 
 - OTP authentication  
