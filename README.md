@@ -1,7 +1,7 @@
 # Gemini Frontend Clone
 
 **🔗 Live Demo**: [https://your-deployed-url.vercel.app](https://your-deployed-url.vercel.app)  
-**📁 GitHub Repo**: [https://github.com/krishnakant20/Gemini-Frontend-Clone.git](https://github.com/your-username/gemini-frontend-clone)
+**📁 GitHub Repo**: [https://github.com/krishnakant20/Gemini-Frontend-Clone.git]
 
 ---
 
